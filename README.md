@@ -5,6 +5,7 @@ Practice a professional economist workflow using GitHub Desktop:
 - structured folders
 - meaningful commits
 - branches + pull requests
+- conflict try
 
 ## Workflow
 Run code in this order (Stata example):
