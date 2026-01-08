@@ -1,0 +1,12 @@
+# Data you should not track
+data/raw/
+*.dta
+
+# Outputs and logs
+output/
+*.log
+*.tmp
+
+# OS junk
+.DS_Store
+Thumbs.db
